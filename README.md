@@ -10,3 +10,5 @@
 （3）使用openioc官方的mandiant IOCe进行威胁情报查看和管理；
 
 （4）使用威胁情报中心MISP进行威胁情报的整合。
+
+![image](https://github.com/NikolaGareth/GraduationProject/blob/master/process.png)
