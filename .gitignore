@@ -1,2 +1,24 @@
 # Project exclude paths
 /venv/
+
+# 环境变量文件 - 包含敏感信息，不要提交到Git
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+
+# IOC输出文件
+*.ioc
+
+# 日志文件
+*.log
+openioc.log
+
+# 注意: config.json 不在 .gitignore 中，因为它不包含敏感信息
+# 如果您有自定义的敏感配置，请创建 config.local.json 并添加到这里
+config.local.json

@@ -1,0 +1,18 @@
+# CuckooToOpenIOC 依赖项
+# Python 版本要求: Python 3.6+
+
+# IOC Writer - 用于生成 OpenIOC 格式文件
+ioc-writer>=0.3.3
+
+# Python Dotenv - 用于加载 .env 文件（可选，但推荐）
+python-dotenv>=0.19.0
+
+# 标准库已包含的模块（无需安装）:
+# - urllib.request (HTTP 请求)
+# - json (JSON 解析)
+# - re (正则表达式)
+# - os (操作系统接口)
+# - sys (系统特定参数)
+# - ssl (SSL/TLS 支持)
+# - logging (日志记录)
+# - typing (类型提示)
