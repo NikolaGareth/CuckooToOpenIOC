@@ -11,7 +11,7 @@
 
 （4）使用威胁情报中心MISP进行威胁情报的整合。
 
-![image](https://github.com/NikolaGareth/GraduationProject/blob/master/process.png)
+![image](https://github.com/NikolaGareth/CuckooToOpenIOC/blob/master/process.png)
 
 ## 前置要求
 
